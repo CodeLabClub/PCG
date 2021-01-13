@@ -46,6 +46,8 @@
     *  [中文版本](https://chengyichao.co/learnable-programming)
 *  [Dynamicland, seeing spaces, and design studio](http://vitor.io/on-dynamicland)
     *  [中文版本](https://thinkhard.tech/2019/06/13/on-dynamicland/)
+*  [The "Next Big Thing" is a Room](https://phenomenalworld.org/metaresearch/the-next-big-thing-is-a-room)
+    *  [中文版本](http://wwj718.github.io/post/编程/the-next-big-thing-is-a-room/) 
 *  [A world of active objects for work and play](https://dl.acm.org/doi/10.1145/2986012.2986029)
 *  [Back to the future: the story of Squeak, a practical Smalltalk written in itself](https://www.vpri.org/pdf/tr1997001_backto.pdf)
 *  [Croquet – A Collaboration System Architecture](https://ieeexplore.ieee.org/document/1222325)
@@ -58,7 +60,9 @@
     *  [中文版本](https://github.com/CodeLabClub/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/Background-On-How-Children-Learn.md)
 *  [Kill Math](http://worrydream.com/#!/KillMath)
     *  [中文版本](https://github.com/CodeLabClub/codelab-mindstorms/blob/master/%E8%AF%91%E6%96%87/kill-math.md)
-
+*  [Plato and Object Oriented Programming](https://www.richardfarrar.com/plato-and-object-oriented-programming/)
+    *  [中文版本](http://wwj718.github.io/post/编程/plato-and-object-oriented-programming/)
+    
 提醒: 英文不好的同学可以借助[DeepL](https://www.deepl.com/)
 
 # 讨论组形式
